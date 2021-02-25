@@ -1,3 +1,8 @@
+Personal Tetris remake using ReactJs and CSS3.
+Use npm start to run locally
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,4 +1,4 @@
-Personal Tetris remake using ReactJs and CSS3.
+Personal Tetris remake using ReactJs hooks and CSS3.
 Use npm start to run locally
 
 

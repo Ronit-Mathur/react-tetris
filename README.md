@@ -1,9 +1,11 @@
-Personal Tetris remake using ReactJs hooks and CSS3.
+# Personal Tetris remake using ReactJs hooks and CSS3.
 Use npm start to run locally
 
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/38735296/210286094-d73a4c3d-1ddb-4047-80a8-38730b7de862.png">
+
+# NPM SCRIPTS:
 
 ## Available Scripts
 
